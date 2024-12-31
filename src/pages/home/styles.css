@@ -1,0 +1,83 @@
+.conteudo {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.githubIcon {
+  height: 100vh;
+  position: absolute;
+  left: 0;
+}
+
+.info {
+  width: 60%;
+  margin-right: 90px;
+  margin-top: 40px;
+  color: #fff;
+}
+
+input {
+  border: 1px solid #999;
+  border-radius: 22px;
+  min-width: 250px;
+  width: 82%;
+  background: transparent;
+  color: #fff;
+  font-size: 18px;
+  margin-right: 12px;
+  padding: 10px;
+}
+
+button {
+  border: 1px solid #999;
+  border-radius: 22px;
+  margin-right: 12px;
+  background: #2D333B;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.userImage {
+  border: 2px solid #fff;
+  border-radius: 60px;
+  width: 120px;
+  height: 120px;
+  margin-right: 32px;
+}
+
+.profile {
+  display: flex;
+  margin: 40px 0;
+  align-items: center;
+}
+
+.profile h3 {
+  color: #999;
+  font-size: 24px;
+  margin: 0;
+}
+
+.profile a {
+  display: block;
+  text-decoration: none;
+  color: #999;
+  font-size: 12px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.profile p {
+  color: #999;
+  font-size: 12px;
+  margin: 20px 0 0 0;
+}
+
+.repository h4 {
+  font-size: 32px;
+  color: #fff;
+  margin: 12px 0;
+  text-align: center;
+}
