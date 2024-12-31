@@ -27,7 +27,8 @@ Execute o seguinte comando no terminal:
 Copie e cole o link exibido no terminal no seu navegador para acessar a aplicação.
 
 # ToDo
-- Implementar integração com a API do GitHub;
+- Adicionar paginção nos repositórios
+- Adicionar tratamento de erros
 - Tornar a aplicação responsiva.
 
 # Agradecimentos 
